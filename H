@@ -1,0 +1,16 @@
+# NAME: H
+# AUTHOR: H
+# UPDATED: 2025-012-02 09:17:30
+# DOMAIN-SUFFIX: 33
+# TOTAL: 33
+DOMAIN-SUFFIX,dlsite.com
+DOMAIN-SUFFIX,laowang.vip
+DOMAIN-SUFFIX,onlyfans.com
+DOMAIN-SUFFIX,hanime1.me
+DOMAIN-SUFFIX,theporndude.com
+DOMAIN-SUFFIX,fc2.com
+DOMAIN-SUFFIX,patreon.com
+DOMAIN-SUFFIX,hacg.icu
+DOMAIN-SUFFIX,javdb.com
+DOMAIN-SUFFIX,missav.ws
+DOMAIN-SUFFIX,123av.com
